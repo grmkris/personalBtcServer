@@ -25,6 +25,15 @@ It is a device that you plug into your router. It has multiple use cases:
     - Can browse and access TOR website (darknetmarkets?)
     - Connect when on public Wifis  
 
+- BONUS
+  - use this device as your own NAS by attaching more HDD devices* (nextcloud)
+  - adblocker for your home network*
+  - your own website (blog)
+  - torrent
+  - password manager
+  - Todo
+
+
 User setup this device by pluging it into electricity and wifi via ethernet cable.  Device should either have a display or a blinking led light that indicates it is booted. The admin dashboard should be "automagicaly" visible on local internet by accessing bitcoinnode.local or something similar. In worst case scenario it should be accessible by local IP address.  
 
 **Admin dashboard needs the following:**  
@@ -35,15 +44,6 @@ User setup this device by pluging it into electricity and wifi via ethernet cabl
 - BtcPayServer entry point for managing your web stores
 - Personal VPN settings, approved devices etc..
 - Tor network status
-
-**BONUS**
-- Store for addons
-  - use this device as your own NAS by attaching more HDD devices* (nextcloud)
-  - adblocker for your home network*
-  - your own website (blog)
-  - torrent
-  - password manager
-  - Todo
 
 ## Specifications: 
 - General:
