@@ -36,6 +36,14 @@ User setup this device by pluging it into electricity and wifi via ethernet cabl
 - Personal VPN settings, approved devices etc..
 - Tor network status
 
+**BONUS**
+- Store for addons
+  - use this device as your own NAS by attaching more HDD devices* (nextcloud)
+  - adblocker for your home network*
+  - your own website (blog)
+  - torrent
+  - password manager
+  - Todo
 
 ## Specifications: 
 - General:
