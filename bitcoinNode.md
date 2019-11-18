@@ -72,3 +72,12 @@ User setup this device by pluging it into electricity and wifi via ethernet cabl
 - https://mynodebtc.com/products/community_edition
   - https://creativecommons.org/licenses/by-nc/4.0/!!!!!
 - https://shop.fulmo.org/
+
+
+## Costs:
+- [RPI 4 4gb 50€](https://si.farnell.com/raspberry-pi/rpi4-modbp-4gb/raspberry-pi-4-model-b-4gb/dp/3051887)
+- 1 TB 2.5" HDD 40-60€
+- Case 20€
+- ?? 20€
+
+Final costs: ~150€
