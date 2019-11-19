@@ -79,5 +79,5 @@ User setup this device by pluging it into electricity and wifi via ethernet cabl
 - 1 TB 2.5" HDD 40-60€
 - Case 20€
 - ?? 20€
-
+- https://www.aliexpress.com/item/4000059786966.html?spm=a2g0s.12269583.0.0.4081371eJ2oays
 Final costs: ~150€
