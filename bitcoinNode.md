@@ -23,7 +23,7 @@ It is a device that you plug into your router. It has multiple use cases:
   - Browse web through this device
     - Ad blocking
     - Can browse and access TOR website (darknetmarkets?)
-    - Connect when on public Wifis  
+    - Connect when on public Wifis 
 
 - BONUS
   - use this device as your own NAS by attaching more HDD devices* (nextcloud)
@@ -72,7 +72,7 @@ User setup this device by pluging it into electricity and wifi via ethernet cabl
 - https://mynodebtc.com/products/community_edition
   - https://creativecommons.org/licenses/by-nc/4.0/!!!!!
 - https://shop.fulmo.org/
-
+- tor node. https://fastrelay.org/
 
 ## Costs:
 - [RPI 4 4gb 50€](https://si.farnell.com/raspberry-pi/rpi4-modbp-4gb/raspberry-pi-4-model-b-4gb/dp/3051887)
